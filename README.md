@@ -6,7 +6,7 @@ Conda version >=4.5.4
 
 # Installation guide
 1. Open conda in terminal using terminal
-2. cd into the adveserial-examples-500px folder
+2. ```cd``` into the ```adveserial-examples-500px folder```
 3. Type the following command: 
 ```conda create --name mnist-venv --file requirements.txt```
 This will create a new conda virtual environment mnist-vevnv
